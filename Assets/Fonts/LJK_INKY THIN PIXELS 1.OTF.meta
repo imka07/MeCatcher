@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9efd978351bc49b4899d0c5485a7411f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Inky Thin Pixels(RUS BY LYAJKA)
+  fontNames:
+  - Inky Thin Pixels(RUS BY LYAJKA)
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5a510b3b1feb32a45ab5fac5b350024a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
