@@ -117,9 +117,6 @@ public class BAFF : MonoBehaviour
     private IEnumerator Magnite()
     {
         var d = player.GetComponent<DASKCONTROLLER>();
-
-
-     
         d.MagMen(true);
         mag.fillAmount = 1;
         float timer = 6;
